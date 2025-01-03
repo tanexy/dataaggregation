@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4iTXHcNcr9jN4mP9j7KW+7eNq3nxLZ7jkKe3nvLFfsM=",
+  "Source": "ApiIntegrationService",
+  "BasePath": "_content/ApiIntegrationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
