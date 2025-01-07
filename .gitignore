@@ -1,0 +1,6 @@
+
+
+# Encrypted Files
+/ApiIntegrationService/appsettings.Development.json
+/ApiIntegrationService/appsettings.Production.json
+/ApiIntegrationService/appsettings.json
